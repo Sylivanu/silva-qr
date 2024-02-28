@@ -1,15 +1,15 @@
-<h1 align="center"> WEB BASED MULTIDEVICE QR </h1>
+<h1 align="center"> SILVA WEB BASED MULTIDEVICE QR </h1>
 
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/SuhailTechInfo/Secktor-bot/fork" target="_blank">
-    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
+  <a aria-label="FORK" href="https://github.com/Sylivanu/silva-qr/fork" target="_blank">
+    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/Sylivanu/silva-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Silva_Md is free to use" href="https://youtube.com/" target="_blank">
+    <img alt="Sylivanu" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="Sylivanu:: Visitor's Count" /></p>
 
      
   </body>
@@ -18,9 +18,9 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
-3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
+1.  ***Click [`FORK`](https://github.com/Sylivanu/silva-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Sylivanu/silva-qr).***
+3.  ***Deploy on [`REPLIT`](https://replit.com/github/Sylivanu/silva-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
 RENDER PROCESS:
@@ -82,4 +82,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+[![SuhailTechIinfo](https://telegra.ph/file/3647aeca79bcc25555c99.jpg?size=300)](https://github.com/Sylivanu)
