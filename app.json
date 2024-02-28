@@ -14,14 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇\n║ *『 WOW YOU CHOOSE 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *WA CHANNEL:* _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_\n║ *Owner:* _https://wa.me/254700143167_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n🌟 Welcome to Silva Tech Bots! 🌟\nThank you for scanning our QR code and receiving your session ID. Remember to keep your session ID private for security reasons.\n 
-
-Don't forget to follow our channel for the latest updates: 
-https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
-
-Join our group for even more updates and discussions: https://chat.whatsapp.com/BFLnaC9ULR02UJI2TbnciD
-
-We're excited to have you here! If you have any questions or need assistance, feel free to reach out. 🤖💬╚════════════════════════╝",
+        "value": "╔════◇\n║ *『 WOW YOU CHOOSE 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *WA CHANNEL:* _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_\n║ *Owner:* _https://wa.me/254700143167_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
         "required": false 
       }
     }   
