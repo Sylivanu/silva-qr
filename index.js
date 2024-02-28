@@ -14,15 +14,25 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WAOW YOU CHOOSE SUHAIL-MD 』*
+║ *『 WAOW YOU CHOOSE 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/SuhailTechInfo_
-║ *Owner:* _https://wa.me/923184474176_
+║ *WA CHANNEL:* _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_
+║ *Owner:* _https://wa.me/254700143167_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
+🌟 Welcome to Silva Tech Bots! 🌟
+
+Thank you for scanning our QR code and receiving your session ID. Remember to keep your session ID private for security reasons. 
+
+Don't forget to follow our channel for the latest updates: 
+https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
+
+Join our group for even more updates and discussions: https://chat.whatsapp.com/BFLnaC9ULR02UJI2TbnciD
+
+We're excited to have you here! If you have any questions or need assistance, feel free to reach out. 🤖💬
 ╚════════════════════════╝
 `
 
